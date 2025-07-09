@@ -1,24 +1,14 @@
 {
   "posts": [
     {
-      "id": "1",
-      "title": "a title",
-      "views": 100
+      "title": "",
+      "views": "300",
+      "id": "1"
     },
     {
       "id": "2",
       "title": "another title",
       "views": 200
-    },
-    {
-      "id": "af5b",
-      "title": "um titulo",
-      "views": "20"
-    },
-    {
-      "id": "ebba",
-      "title": "novo titulo",
-      "views": "30"
     }
   ],
   "comments": [
